@@ -1,0 +1,2 @@
+The working simulation model is Rule_based_stop_if_likely_collision_simulink_joystick (using desidered speed as metric to predict if collision will happen or not)
+Instead, Rule_based_stop_if_likely_collision_simulink_joystick_from_odom was an attempt to use odometry to estimate the current speed.

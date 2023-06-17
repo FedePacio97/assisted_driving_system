@@ -1,3 +1,5 @@
 **/ros2_ws/install*
 **/ros2_ws/build*
 **/ros2_ws/log*
+**/slprj
+**/+bus_conv_fcns/*
